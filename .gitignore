@@ -1,0 +1,16 @@
+.DS_Store
+target/
+.classpath
+.project
+.settings/
+.pmd
+**/.pmd
+*.idea
+*.iml
+*logs
+keystore.jks
+.springBeans
+.idea/*
+*.log
+/out
+/target

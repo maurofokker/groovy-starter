@@ -1,0 +1,7 @@
+Goals
+    1. get more familiar with groovy api docs
+    2. learn how to use AST transformations
+
+Tasks
+    1. Find 2 new annotations (besides ToString and Immutable) and create and example of how to use them
+    2. Test examples with a script
