@@ -51,4 +51,4 @@ def evens = [10,2,8,4,24,14,2] as Set   // in case I want the list to be a Set (
 println evens                           // when cast as Set it will remove duplicates
 println evens.class.name
 
-def evens = [10,2,8,4,24,14,2] as SortedSet // class of type TreeSet and list will be sorted
+def evens2 = [10,2,8,4,24,14,2] as SortedSet // class of type TreeSet and list will be sorted
