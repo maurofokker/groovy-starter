@@ -1,3 +1,4 @@
+package cl.groovy.closures
 /*
 String concat(String... args) {
     args.join('')
